@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aditya-adhav
-- 👀 I’m interested in Python,data analysis
+- 👀 I’m interested in Python,Java,Web developement
 - 🌱 I’m currently learning bachelor of computer science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me aditya040320005@gmail.com
