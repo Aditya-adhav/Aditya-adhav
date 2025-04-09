@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aditya-adhav
 - 👀 I’m interested in Python,Java,Web developement
-- 🌱 I’m currently learning bachelor of computer science
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning bachelor of Computer Science
+- 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me aditya040320005@gmail.com
 
 <!---
