@@ -1,10 +1,50 @@
-- 👋 Hi, I’m @Aditya-adhav
-- 👀 I’m interested in Python,Java,Web developement
-- 🌱 I’m currently learning bachelor of Computer Science
-- 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me aditya040320005@gmail.com
+<img width="1024" height="618" alt="image" src="https://github.com/user-attachments/assets/801eb5e3-6c93-4e46-9658-96c1aeede10e" />
 
-<!---
-Aditya-adhav/Aditya-adhav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hi, I'm Aditya Adhav 👋</h1>
+<p align="center">
+  <b>Cloud Engineer | Aspiring DevOps Specialist</b>
+</p>
+
+---
+
+### 🚀 About Me
+
+I'm a passionate Cloud Engineer with hands-on experience in modern IT infrastructure. I love building reliable, scalable solutions and automating workflows. My short-term goal: transition into a DevOps Engineer role and master the art of continuous delivery!
+
+---
+
+### 🛠️ Skills & Tools
+
+- **Cloud Platforms:** Azure
+- **Infrastructure as Code:** Terraform
+- **Automation:** PowerShell
+- **System Administration:** Windows Server, Active Directory
+- **Networking & Virtualization**
+
+---
+
+### 🌟 Featured Project
+
+[Car Rental Portal](https://github.com/Aditya-adhav/Car-Rental-Portal)  
+A full-featured car rental solution integrating user management, booking, and admin tools.  
+*Check it out for a deep dive into my coding and cloud skills!*
+
+---
+
+### 📚 Interests
+
+- Reading manga & comics 📖
+- Exploring new DevOps tools
+- Learning about cloud-native architectures
+
+---
+
+### 🌐 Connect with Me
+
+[![LinkedIn Badge](https://img.shields.io/badge/Aditya%20Adhav-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/aditya-adhav-566a15265)
+
+---
+
+
+
+> _“Always learning, always building!”_
