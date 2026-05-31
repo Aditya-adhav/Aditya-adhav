@@ -1,4 +1,3 @@
-<img width="1024" height="618" alt="image" src="https://github.com/user-attachments/assets/801eb5e3-6c93-4e46-9658-96c1aeede10e" />
 
 <h1 align="center">Hi, I'm Aditya Adhav 👋</h1>
 <p align="center">
