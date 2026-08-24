@@ -72,27 +72,6 @@ A full-stack web application featuring customer and admin dashboards, user authe
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aditya-adhav&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="Aditya's GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-adhav&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Aditya's Top Languages" />
-</p>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Aditya-adhav&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aditya-adhav&theme=tokyonight&row=1&column=6&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-</div>
-
----
-
 <div align="center">
   
 > *"Automate everything. Learn continuously. Build solutions that scale."* 🚀
