@@ -27,7 +27,7 @@ I am a **Cloud Engineer** with hands-on experience in Azure infrastructure, Infr
 - 🚀 Currently expanding my expertise in **Kubernetes (AKS), Cloud Security, and AI-powered DevOps solutions**.
 - 🎯 **Career Goal:** To become a leading Cloud & DevOps Engineer specializing in Infrastructure Automation and intelligent agentic workflows.
 - 💬 Ask me about: **Terraform, Azure, Python Automation, and AI Agents**.
-- 📫 Reach out to me: `[Insert Your Email Here]`
+- 📫 Reach out to me: `aditya04032005@gmail.com`
 
 ---
 
