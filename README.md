@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Aditya%20Adhav&fontSize=40&fontAlignY=38&desc=software%20Engineer%20|%20DevOps%20Enthusiast%20|%20AI%20Automation&descAlignY=55&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Aditya%20Adhav&fontSize=40&fontAlignY=38&desc=Software%20Engineer%20|%20DevOps%20Enthusiast%20|%20AI%20Automation&descAlignY=55&descSize=20" />
 
 <p align="center">
   <a href="https://github.com/Aditya-adhav">
